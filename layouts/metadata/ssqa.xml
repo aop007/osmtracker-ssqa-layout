@@ -1,0 +1,5 @@
+<metadata>
+    <option iso="fr" name="Français"> description des valeurs de ssqa </option>
+    <option iso="en" name="English"> description of the ssqa values you can map with it </option>
+    <github username="aop007" repo="osmtracker-ssqa-layout" branch="develop" />
+</metadata>
